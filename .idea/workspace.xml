@@ -53,7 +53,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.StringUtilsTest.shouldFailIfContainsNotOnlyNumbers">
+  <component name="RunManager" selected="Application.HomeWork9">
+    <configuration name="HomeWork9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork9" />
+      <module name="Lesson_28" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringUtilsTest.shouldFailIfContainsNotOnlyNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lesson_28" />
       <option name="PACKAGE_NAME" value="" />
@@ -94,23 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUtilsTest.shouldReturnTrueIfYoInputted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lesson_28" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StringUtilsTest" />
-      <option name="METHOD_NAME" value="shouldReturnTrueIfYoInputted" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork9" />
         <item itemvalue="JUnit.StringUtilsTest.shouldFailIfContainsNotOnlyNumbers" />
         <item itemvalue="JUnit.StringUtilsTest.shouldReturnFalseIfNotContains" />
         <item itemvalue="JUnit.StringUtilsTest.shouldReturnTrueIfInTheMiddle" />
         <item itemvalue="JUnit.StringUtilsTest.shouldReturnTrueIfUpperCase" />
-        <item itemvalue="JUnit.StringUtilsTest.shouldReturnTrueIfYoInputted" />
       </list>
     </recent_temporary>
   </component>

@@ -92,4 +92,10 @@ public class StringUtilsTest {
         char[] charArray = new char[]{'3', 'n', '1'};
         Assertions.assertThrows(IllegalArgumentException.class, () -> StringUtils.parseInt(charArray));
     }
+    @Test
+    public void should() {
+        char[] charArray = new char[]{'3', '2', '1'};
+        int expectedNum = StringUtils.parseInt(charArray);
+        assertEquals(expectedNum, 321);
+    }
 }
