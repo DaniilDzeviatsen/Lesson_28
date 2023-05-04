@@ -37,9 +37,9 @@ public class StringUtils {
 
 
     public static boolean ifContains2(char[] chararray, char[] chararray2) {
-        for (int i = 0; i <= chararray2.length - chararray.length; i ++) {
+        for (int i = 0; i <= chararray2.length - chararray.length; i++) {
             boolean tr = true;
-            for (int j = 0; j < chararray.length; j ++) {
+            for (int j = 0; j < chararray.length; j++) {
                 if (chararray2[i + j] != chararray[j]) {
                     tr = false;
                     break;
